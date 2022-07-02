@@ -1,5 +1,5 @@
 import {Profile} from './Profile/Profile';
-import profileData from '../profileData'
+import profileData from './data/profileData'
 const { username, tag, location, avatar, stats } = profileData;
 export const App = () => {
   return (
