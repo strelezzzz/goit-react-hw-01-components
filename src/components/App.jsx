@@ -24,8 +24,8 @@ export const App = () => {
         stats={stats}
       />
       <Statistics
-        title={statistics.title}
-        stats={statistics.stats}
+        title="Upload stats"
+        stats={statistics}
       />
     </div>
   );
