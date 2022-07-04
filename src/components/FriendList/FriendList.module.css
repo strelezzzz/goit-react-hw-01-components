@@ -1,3 +1,8 @@
 .friendList {
-    background-color: aliceblue;
+  background-color: #f0f8ff;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin: 20px 0;
+  padding: 20px 0;
 }
