@@ -1,4 +1,10 @@
+.statistics {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 298px;
+}
 
-.title{
-    background-color: gray;
+.title {
+  background-color: gray;
 }
