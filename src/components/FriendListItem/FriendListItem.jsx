@@ -3,7 +3,7 @@ import css from './FriendListItem.module.css';
 
 export const FriendListItem = ({ avatar, name, isOnline }) => {
   const status = isOnline ? css.online : css.offline;
-  console.log(status);
+  // console.log(status);
   return (
     <>
       <span className={status}></span>
